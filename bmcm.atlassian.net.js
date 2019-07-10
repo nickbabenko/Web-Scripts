@@ -1,7 +1,3 @@
-if (window.location.pathname !== '/issues/' && window.location.search !== '?filter=10007') {
-    return
-}
-
 const colours = document.querySelectorAll('.customfield_10017')
 const colourMap = {
     yellow: '#F7B500',
