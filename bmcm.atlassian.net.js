@@ -18,5 +18,5 @@ window.addEventListener('load', () => {
                 '<span style="width: 22px; height: 22px; display: inline-block; border-radius: 12px; border: 1px solid rgba(0, 0, 0, 0.18);"></span>'
             '</span>';
     })
-    document.querySelector('.headerrow-customfield_10017 span').innerText = 'Indicator'
+    document.querySelector('.headerrow-customfield_10017 span').innerText = 'Risk'
 });
